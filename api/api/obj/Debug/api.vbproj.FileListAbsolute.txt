@@ -1,0 +1,207 @@
+C:\Users\It's Hero\Desktop\api\api\api\bin\api.dll.config
+C:\Users\It's Hero\Desktop\api\api\api\bin\api.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\api.pdb
+C:\Users\It's Hero\Desktop\api\api\api\bin\api.xml
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csc.exe
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csc.exe.config
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csc.rsp
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csi.exe
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csi.exe.config
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\csi.rsp
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.AppContext.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Console.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.IO.Compression.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Claims.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.ValueTuple.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\vbc.exe
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\vbc.exe.config
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\vbc.rsp
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\VBCSCompiler.exe
+C:\Users\It's Hero\Desktop\api\api\api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\It's Hero\Desktop\api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\Newtonsoft.Json.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Net.Http.Formatting.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Web.Http.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Web.Http.WebHost.dll
+C:\Users\It's Hero\Desktop\api\api\api\bin\Newtonsoft.Json.xml
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Net.Http.Formatting.xml
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Web.Http.xml
+C:\Users\It's Hero\Desktop\api\api\api\bin\System.Web.Http.WebHost.xml
+C:\Users\It's Hero\Desktop\api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.vbprojAssemblyReference.cache
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.Resources.resources
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.vbproj.GenerateResource.cache
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.vbproj.CoreCompileInputs.cache
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.vbproj.CopyComplete
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.dll
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.xml
+C:\Users\It's Hero\Desktop\api\api\api\obj\Debug\api.pdb
+D:\_Develpoing\8_api\api\api\bin\api.dll.config
+D:\_Develpoing\8_api\api\api\bin\api.dll
+D:\_Develpoing\8_api\api\api\bin\api.pdb
+D:\_Develpoing\8_api\api\api\bin\api.xml
+D:\_Develpoing\8_api\api\api\bin\roslyn\csc.exe
+D:\_Develpoing\8_api\api\api\bin\roslyn\csc.exe.config
+D:\_Develpoing\8_api\api\api\bin\roslyn\csc.rsp
+D:\_Develpoing\8_api\api\api\bin\roslyn\csi.exe
+D:\_Develpoing\8_api\api\api\bin\roslyn\csi.exe.config
+D:\_Develpoing\8_api\api\api\bin\roslyn\csi.rsp
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\_Develpoing\8_api\api\api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.AppContext.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Collections.Immutable.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Console.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.IO.Compression.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.IO.FileSystem.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.IO.Pipes.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Reflection.Metadata.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.AccessControl.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Claims.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.ValueTuple.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Xml.XPath.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\_Develpoing\8_api\api\api\bin\roslyn\vbc.exe
+D:\_Develpoing\8_api\api\api\bin\roslyn\vbc.exe.config
+D:\_Develpoing\8_api\api\api\bin\roslyn\vbc.rsp
+D:\_Develpoing\8_api\api\api\bin\roslyn\VBCSCompiler.exe
+D:\_Develpoing\8_api\api\api\bin\roslyn\VBCSCompiler.exe.config
+D:\_Develpoing\8_api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_Develpoing\8_api\api\api\bin\Newtonsoft.Json.dll
+D:\_Develpoing\8_api\api\api\bin\System.Net.Http.Formatting.dll
+D:\_Develpoing\8_api\api\api\bin\System.Web.Http.dll
+D:\_Develpoing\8_api\api\api\bin\System.Web.Http.WebHost.dll
+D:\_Develpoing\8_api\api\api\bin\Newtonsoft.Json.xml
+D:\_Develpoing\8_api\api\api\bin\System.Net.Http.Formatting.xml
+D:\_Develpoing\8_api\api\api\bin\System.Web.Http.xml
+D:\_Develpoing\8_api\api\api\bin\System.Web.Http.WebHost.xml
+D:\_Develpoing\8_api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_Develpoing\8_api\api\api\obj\Debug\api.vbprojAssemblyReference.cache
+D:\_Develpoing\8_api\api\api\obj\Debug\api.Resources.resources
+D:\_Develpoing\8_api\api\api\obj\Debug\api.vbproj.GenerateResource.cache
+D:\_Develpoing\8_api\api\api\obj\Debug\api.vbproj.CoreCompileInputs.cache
+D:\_Develpoing\8_api\api\api\obj\Debug\api.vbproj.CopyComplete
+D:\_Develpoing\8_api\api\api\obj\Debug\api.dll
+D:\_Develpoing\8_api\api\api\obj\Debug\api.xml
+D:\_Develpoing\8_api\api\api\obj\Debug\api.pdb
+D:\_Developing_\IRANFILMPORT_api\api_iranfilmport_staff\obj\Debug\api.dll
+D:\_Developing_\IRANFILMPORT_api\api_iranfilmport_staff\obj\Debug\api.xml
+D:\_Developing_\IRANFILMPORT_api\api_iranfilmport_staff\obj\Debug\api.pdb
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\api.dll.config
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\api.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\api.pdb
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\api.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csc.exe
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csc.exe.config
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csc.rsp
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csi.exe
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csi.exe.config
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\csi.rsp
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.AppContext.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Collections.Immutable.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Console.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.IO.Compression.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.IO.FileSystem.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.IO.Pipes.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Reflection.Metadata.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.AccessControl.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Claims.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.ValueTuple.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Xml.XPath.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\vbc.exe
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\vbc.exe.config
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\vbc.rsp
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\VBCSCompiler.exe
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\roslyn\VBCSCompiler.exe.config
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\Newtonsoft.Json.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Net.Http.Formatting.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Web.Http.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Web.Http.WebHost.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\Newtonsoft.Json.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Net.Http.Formatting.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Web.Http.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\System.Web.Http.WebHost.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.vbprojAssemblyReference.cache
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.Resources.resources
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.vbproj.GenerateResource.cache
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.vbproj.CoreCompileInputs.cache
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.vbproj.CopyComplete
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.dll
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.xml
+D:\_Developing_\IRANFILMPORT_api\api\api\obj\Debug\api.pdb
