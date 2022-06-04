@@ -115,12 +115,14 @@
     <Compile Include="App_Code\ShamsiDate.vb" />
     <Compile Include="App_Start\WebApiConfig.vb" />
     <Compile Include="Controllers\Staff\StaffApkController.vb" />
+    <Compile Include="Controllers\Staff\StaffAuthenticationController.vb" />
     <Compile Include="Controllers\Staff\StaffCalendarGeneralController.vb" />
     <Compile Include="Controllers\Staff\StaffcalOverviewController.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Staff\StaffApk.vb" />
+    <Compile Include="Models\Staff\StaffAuth.vb" />
     <Compile Include="Models\Staff\StaffCalendarListItem.vb" />
     <Compile Include="Models\Staff\StaffCalendarOverview.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

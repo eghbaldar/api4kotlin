@@ -2,6 +2,8 @@
 Imports System.Data.SqlClient
 Imports System.Data
 Imports System.Drawing
+Imports System.Security.Cryptography
+
 Public Class DLL
 
     Dim sqlconnDesktop As New SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings("DesktopConnectionString").ConnectionString)
@@ -163,6 +165,25 @@ Public Class DLL
             Dim ds As New DataSet
             sqlda.Fill(ds)
             Return ds.Tables(0)
+            sqlconnDesktop.Close()
+        Catch ex As Exception
+        Finally
+            sqlconnDesktop.Close()
+        End Try
+    End Function
+
+    'Authentication
+
+    Public Function GetAuthentication(user As String, pass As String) As String
+        Try
+            If sqlconnDesktop.State = ConnectionState.Open Then sqlconnDesktop.Close()
+            sqlconnDesktop.Open()
+            Dim sqlcom As New SqlCommand("select count(*) from [dbo].[tbUsres] where lower([username])='" _
+                                         & user.Trim.ToLower _
+                                         & "' and lower([password])='" _
+                                         & pass.Trim.ToLower _
+                                         & "'", sqlconnDesktop)
+            Return sqlcom.ExecuteScalar
             sqlconnDesktop.Close()
         Catch ex As Exception
         Finally

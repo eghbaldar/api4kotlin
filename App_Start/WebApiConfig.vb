@@ -17,6 +17,17 @@ Public Module WebApiConfig
             defaults:=New With {.controller = "StaffApkController"}
         )
 
+        ''Autentication users!
+        ''If you will not be initialized {user} and {pass} through APPLICATION or middle-software
+        ''such as POSTMAN, you will be seen: 
+        ''"Message": "No HTTP resource was found that matches the request URI 'http://localhost:11842/api/auth/Authentication/'.",
+        ''"MessageDetail": "No type was found that matches the controller named 'auth'."
+        config.Routes.MapHttpRoute(
+            name:="Api_GetAuthentication",
+            routeTemplate:="api/auth/{controller}/{user}/{pass}",
+            defaults:=New With {.controller = "StaffAuthenticationController"}
+        )
+
         'Staff Calendar Overview
         config.Routes.MapHttpRoute(
             name:="Api_GetCalendarOverview",
